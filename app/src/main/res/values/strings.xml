@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string-array name="programme1">
+        <item>B.E IT</item>
+        <item>B.E ECE</item>
+        <item>B.E EG</item>
+        <item>B.E EE</item>
+        <item>B.E C</item>
+        <item>B.E ICE</item>
+        <item>B.E A</item>
+    </string-array>
+    <string-array name="AcademicYear">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    </string-array>
+
+</resources>
